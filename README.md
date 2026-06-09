@@ -17,6 +17,5 @@ Installing necessary packages: pip install -r requirements.txt.
 ### 2.2 Create Environment
 Downloading necessary data:
 
-downloading testing dataset and move it into ./data/TestDataset/, which can be found in this download link (Google Drive).
-
-downloading training dataset and move it into ./data/TrainDataset/, which can be found in this download link (Google Drive).
+downloading testing dataset and move it into ./data/TestDataset/
+downloading training dataset and move it into ./data/TrainDataset/
