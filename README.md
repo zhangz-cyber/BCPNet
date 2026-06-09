@@ -15,8 +15,6 @@ Camouflaged Object Detection (COD) aims to segment objects that are visually con
 Creating a virtual environment in terminal：conda create -n BCPNet python=3.8
 Installing necessary packages: pip install -r requirements.txt.
 ### 2.2 Downloading necessary data
-Downloading necessary data:
-
 downloading testing dataset and move it into ./data/TestDataset/
 
 downloading training dataset and move it into ./data/TrainDataset/
