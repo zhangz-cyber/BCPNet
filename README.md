@@ -9,7 +9,7 @@ This repository contains the official PyTorch implementation of **BCPNet** (Lear
 
 ## Framework
 
-![BCPNet Framework](fig.png)
+![BCPNet Framework](BCPNet/fig.png)
 
 *Figure: The overall architecture of BCPNet. The network consists of Boundary Prior Generation (BPG), Boundary-Grounded Contrastive Alignment (BGCA), and Progressive Semantic Guided Decoder (PSGD) modules.*
 
