@@ -4,7 +4,8 @@
 
 ## Overview
 
-This repository contains the official PyTorch implementation of **BCPNet** (Boundary-Grounded Contrastive Prompting Network), a novel approach for Camouflaged Object Detection (COD) that leverages boundary-aware contrastive learning and semantic prompting mechanisms.
+This repository contains the official PyTorch implementation of **BCPNet** (Learning What It Is Not: Boundary-Grounded Contrastive Prompting for Camouflaged Object Detection
+), a novel approach for Camouflaged Object Detection (COD) that leverages boundary-aware contrastive learning and semantic prompting mechanisms.
 
 ## Framework
 
