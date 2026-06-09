@@ -1,1 +1,0 @@
-The prediction results of the model will be saved to this folder.

@@ -1,2 +1,0 @@
-Please move the pretrained Res2Net-50 weights into this folder.
-For example, res2net50_v1b_26w_4s-3cf99910.pth.
