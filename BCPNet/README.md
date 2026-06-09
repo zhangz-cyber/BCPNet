@@ -1,4 +1,4 @@
-# BCPNet: Boundary-Grounded Contrastive Prompting for Camouflaged Object Detection
+# Learning What It Is Not: Boundary-Grounded Contrastive Prompting for Camouflaged Object Detection
 
 **Under Review at Pacific Graphics (PG) 2026**
 
@@ -69,16 +69,15 @@ BCPNet/
 
 ### Download Datasets
 
-1. **COD10K**: [Download Link](https://github.com/DengPingFan/SINet)
-2. **CAMO**: [Download Link](https://github.com/lartpang/CAMO)
-3. **CHAMELEON**: [Download Link](https://github.com/DengPingFan/SINet)
-4. **NC4K**: [Download Link](https://github.com/DengPingFan/SINet)
+1. **COD10K**
+2. **CAMO**
+3. **NC4K**
 
 ### Download Pretrained Models
 
-1. **DINOv2 Models**: Download from [Meta AI](https://github.com/facebookresearch/dinov2) or use torch hub
-2. **Swin Transformer**: Download from [Microsoft](https://github.com/microsoft/Swin-Transformer)
-3. **PVT-V2**: Download from [PVT Repository](https://github.com/whai362/pvt)
+1. **DINOv2 Models**
+2. **Swin Transformer**
+3. **PVT-V2**
 
 Place pretrained weights in the `models/` directory.
 
